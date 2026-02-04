@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WK7T3Z2QPN.benjamin.cante.CellarStock",
+        "paths": [
+          "/links/waterfalltt/*"
+        ]
+      },
+      {
+        "appID": "WK7T3Z2QPN.benjamin.cante.WaterfallPing",
+        "paths": [
+          "/links/vinocave/*"
+        ]
+      }
+    ]
+  }
+}
